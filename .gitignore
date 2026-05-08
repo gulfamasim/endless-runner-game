@@ -1,0 +1,21 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS / Rider
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# Unity meta files (keep these)
+# *.meta  ← do NOT ignore .meta files
+
+# OS junk
+.DS_Store
+Thumbs.db
